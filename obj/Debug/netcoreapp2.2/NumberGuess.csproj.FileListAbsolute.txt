@@ -1,0 +1,11 @@
+/Users/bryanblancas/Desktop/csharp/NumberGuess/bin/Debug/netcoreapp2.2/NumberGuess.deps.json
+/Users/bryanblancas/Desktop/csharp/NumberGuess/bin/Debug/netcoreapp2.2/NumberGuess.runtimeconfig.json
+/Users/bryanblancas/Desktop/csharp/NumberGuess/bin/Debug/netcoreapp2.2/NumberGuess.runtimeconfig.dev.json
+/Users/bryanblancas/Desktop/csharp/NumberGuess/bin/Debug/netcoreapp2.2/NumberGuess.dll
+/Users/bryanblancas/Desktop/csharp/NumberGuess/bin/Debug/netcoreapp2.2/NumberGuess.pdb
+/Users/bryanblancas/Desktop/csharp/NumberGuess/obj/Debug/netcoreapp2.2/NumberGuess.csprojAssemblyReference.cache
+/Users/bryanblancas/Desktop/csharp/NumberGuess/obj/Debug/netcoreapp2.2/NumberGuess.csproj.CoreCompileInputs.cache
+/Users/bryanblancas/Desktop/csharp/NumberGuess/obj/Debug/netcoreapp2.2/NumberGuess.AssemblyInfoInputs.cache
+/Users/bryanblancas/Desktop/csharp/NumberGuess/obj/Debug/netcoreapp2.2/NumberGuess.AssemblyInfo.cs
+/Users/bryanblancas/Desktop/csharp/NumberGuess/obj/Debug/netcoreapp2.2/NumberGuess.dll
+/Users/bryanblancas/Desktop/csharp/NumberGuess/obj/Debug/netcoreapp2.2/NumberGuess.pdb
